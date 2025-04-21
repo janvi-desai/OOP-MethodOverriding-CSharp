@@ -50,8 +50,8 @@ To demonstrate **polymorphism** and the behavior of methods in base and derived 
 ## 🚀 Run the Code
 
 ```bash
-git clone https://github.com/yourusername/CSharp-MethodOverriding-Demo.git
-cd CSharp-MethodOverriding-Demo
+git clone https://github.com/janvi-desai/OOP-MethodOverriding-CSharp.git
+cd OOP-MethodOverriding-CSharp
 dotnet run
 ```
 ---
